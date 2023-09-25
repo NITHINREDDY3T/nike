@@ -13,7 +13,7 @@
   "license": "ISC",
   "engines": {
     "node": "16.20.02"
-  },
+  }, 
   "dependencies": {
     "bcrypt": "^5.0.1"
 ,
